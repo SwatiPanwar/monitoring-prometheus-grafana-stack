@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="monitoring-prometheus-grafana-stack" src="https://github.com/user-attachments/assets/12bebc89-3936-47c0-91e6-e7dc8a22faff" />
 # Monitoring & Observability Stack
 
 ## Features
