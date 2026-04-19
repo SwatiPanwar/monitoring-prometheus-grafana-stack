@@ -1,0 +1,7 @@
+route:
+  receiver: email-alert
+
+receivers:
+  - name: email-alert
+    email_configs:
+      - to: "admin@example.com"
