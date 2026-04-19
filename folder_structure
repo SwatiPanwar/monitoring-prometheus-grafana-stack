@@ -1,0 +1,14 @@
+monitoring-stack/
+├── README.md
+├── docker-compose.yml
+├── prometheus/
+│   ├── prometheus.yml
+├── grafana/
+│   ├── dashboards/
+├── loki/
+│   ├── loki-config.yml
+├── alertmanager/
+│   ├── alertmanager.yml
+├── k8s/
+│   ├── prometheus-deployment.yaml
+│   ├── grafana-deployment.yaml
